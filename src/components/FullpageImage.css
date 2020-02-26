@@ -1,0 +1,18 @@
+.image-full {
+    width: 100%;
+}
+
+.image-full h1 {
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+    margin-top: 40px;
+}
+
+.image-full button {
+    margin: 20px;
+}
+
+.image-full .image-container {
+    max-width: 60%;
+}
